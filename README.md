@@ -1,2 +1,2 @@
-# fullstack-open-2022
+# fullstack-open
 Fullstack Open 2022 Exercises
